@@ -1,0 +1,32 @@
+{
+  "name": "websocket-ts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mayank-0407/websocket-ts.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mayank-0407/websocket-ts/issues"
+  },
+  "homepage": "https://github.com/mayank-0407/websocket-ts#readme",
+  "dependencies": {
+    "@types/ws": "^8.18.1",
+    "express": "^5.1.0",
+    "http": "^0.0.1-security",
+    "typescript": "^5.9.2",
+    "ws": "^8.18.3"
+  },
+  "devDependencies": {
+    "@types/express": "^5.0.3",
+    "@types/node": "^24.3.1"
+  }
+}
