@@ -1,2 +1,2 @@
-/node_modules
-/.env
+/ws-backend/node_modules
+/ws-backend/.env
